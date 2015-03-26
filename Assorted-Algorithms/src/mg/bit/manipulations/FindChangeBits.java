@@ -3,7 +3,9 @@ package mg.bit.manipulations;
 /**
  * http://www.programmerinterview.com/index.php/java-questions/bit-manipulation-
  * interview-question/
- * 
+ * Write a Java method that will return the number of bits that will need to be changed in order to convert an integer, X, 
+ * into another integer, Y and vice versa. The method should accept two different integers as input. 
+ * For example, if your method is passed the integers 12 and 16 then your method should return a 3
  *
  */
 public class FindChangeBits {
